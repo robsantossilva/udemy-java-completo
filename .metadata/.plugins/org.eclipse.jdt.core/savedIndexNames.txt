@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/home/r.silva/Documents/estudos/udemy-java-completo/.metadata/.plugins/org.eclipse.jdt.core
+3189021885.index
+4238621379.index
+1865797976.index
